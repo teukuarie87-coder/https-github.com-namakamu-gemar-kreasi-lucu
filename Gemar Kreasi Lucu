@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Gemar Kreasi Lucu</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>😂 Gemar Kreasi Lucu</h1>
+    <p>Kumpulan ide-ide lucu dari talent & sumber kreatif untuk video parodi!</p>
+  </header>
+
+  <section class="ideas">
+    <h2>💡 Ide Parodi Terbaru</h2>
+    <ul>
+      <li>Parodi sinetron dengan suara hewan 🐶</li>
+      <li>Drama ala tukang parkir 😆</li>
+      <li>Voice over kakek-kakek jadi rapper 🎤</li>
+    </ul>
+  </section>
+
+  <section class="videos">
+    <h2>🎬 Video Lucu Pilihan</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+      title="YouTube video" frameborder="0" allowfullscreen></iframe>
+  </section>
+
+  <section class="social">
+    <h2>📲 Ikuti Kami</h2>
+    <p>Instagram: <a href="#">@gemarkreasilucu</a> | TikTok: <a href="#">@gkl_official</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Gemar Kreasi Lucu. Semua hak dilucu-kan. 😜</p>
+  </footer>
+</body>
+</html>
